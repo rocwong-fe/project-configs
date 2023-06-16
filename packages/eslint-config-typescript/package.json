@@ -1,0 +1,33 @@
+{
+  "name": "@rocwong/eslint-config-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "typescript": ">=4.6"
+  },
+  "dependencies": {
+    "@rocwong/eslint-config-basic": "workspace:*",
+    "@typescript-eslint/eslint-plugin": "^5.59.6",
+    "@typescript-eslint/parser": "^5.59.6"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    {
+      "name": "rocwong",
+      "email": "rocwang666@gmail.com",
+      "url": "https://github.com/rocwong-cn"
+    }
+  ],
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "typescript": "^5.0.4"
+  }
+}

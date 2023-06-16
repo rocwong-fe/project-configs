@@ -1,0 +1,29 @@
+{
+  "name": "@rocwong/eslint-config-vue",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@rocwong/eslint-config-typescript": "workspace:*",
+    "eslint-plugin-vue": "^9.13.0",
+    "vue-eslint-parser": "^9.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    {
+      "name": "rocwong",
+      "email": "rocwang666@gmail.com",
+      "url": "https://github.com/rocwong-cn"
+    }
+  ],
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}

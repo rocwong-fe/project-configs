@@ -1,0 +1,24 @@
+{
+  "name": "@rocwong/stylelint-config-vue",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "postcss-html": "^1.5.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    {
+      "name": "rocwong",
+      "email": "rocwang666@gmail.com",
+      "url": "https://github.com/rocwong-cn"
+    }
+  ]
+}

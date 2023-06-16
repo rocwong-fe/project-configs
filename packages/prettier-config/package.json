@@ -1,0 +1,21 @@
+{
+  "name": "@rocwong/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    {
+      "name": "rocwong",
+      "email": "rocwang666@gmail.com",
+      "url": "https://github.com/rocwong-cn"
+    }
+  ]
+}

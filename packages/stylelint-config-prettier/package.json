@@ -1,0 +1,28 @@
+{
+  "name": "@rocwong/stylelint-config-prettier",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint-prettier": "^3.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    {
+      "name": "rocwong",
+      "email": "rocwang666@gmail.com",
+      "url": "https://github.com/rocwong-cn"
+    }
+  ],
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "stylelint": "^15.6.2"
+  }
+}

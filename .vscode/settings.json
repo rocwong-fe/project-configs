@@ -1,0 +1,39 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.eslint.fixAll": true
+  },
+  "eslint.validate": [
+    "yml",
+    "yaml",
+    "html",
+    "json",
+    "json5",
+    "jsonc",
+    "markdown",
+    "javascript",
+    "typescript"
+  ],
+  "cSpell.words": [
+    "bumpp",
+    "changelogithub",
+    "ependencies",
+    "esbenp",
+    "iife",
+    "jsdelivr",
+    "kolorist",
+    "noopener",
+    "noreferrer",
+    "pnpm",
+    "stroustrup",
+    "stylelintrc",
+    "trbl",
+    "uncategorized",
+    "unspaced",
+    "vite",
+    "vitepress",
+    "vitest",
+    "vuepress"
+  ],
+  "cSpell.allowCompoundWords": true
+}
